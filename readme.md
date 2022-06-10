@@ -1,12 +1,6 @@
-# Heading 1  
+# Movie Database Creator
 
-Movie Database Creator
-
-## Heading 2
-
-### Heading 3
-
-Using Flask, SQLAlchemy, Bootstrap and  themoviedb.org api
+### Using Flask, SQLAlchemy, Bootstrap and  themoviedb.org api
 
 ---
 
